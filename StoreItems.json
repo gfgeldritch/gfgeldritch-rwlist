@@ -110,13 +110,13 @@
 	},
 	{
 		"abr": "animalbed",
-		"price": -10,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "AnimalBed"
 	},
 	{
 		"abr": "animalsleepingbox",
-		"price": -10,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "AnimalSleepingBox"
 	},
@@ -176,7 +176,7 @@
 	},
 	{
 		"abr": "armchair",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "Armchair"
 	},
@@ -218,19 +218,19 @@
 	},
 	{
 		"abr": "autopistol",
-		"price": -10,
+		"price": 250,
 		"category": "Ranged weapons",
 		"defname": "Gun_Autopistol"
 	},
 	{
 		"abr": "axe",
-		"price": -10,
+		"price": 150,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Axe"
 	},
 	{
 		"abr": "bandages",
-		"price": -10,
+		"price": 500,
 		"category": "Manufactured",
 		"defname": "Bandage"
 	},
@@ -260,13 +260,13 @@
 	},
 	{
 		"abr": "bed",
-		"price": -10,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "Bed"
 	},
 	{
 		"abr": "bedroll",
-		"price": -10,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "Bedroll"
 	},
@@ -296,7 +296,7 @@
 	},
 	{
 		"abr": "billiardstable",
-		"price": -10,
+		"price": 600,
 		"category": "Furniture",
 		"defname": "BilliardsTable"
 	},
@@ -380,7 +380,7 @@
 	},
 	{
 		"abr": "bolt-actionrifle",
-		"price": -10,
+		"price": 500,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
 	},
@@ -416,13 +416,13 @@
 	},
 	{
 		"abr": "brazier",
-		"price": -10,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "Brazier"
 	},
 	{
 		"abr": "brewery",
-		"price": 300,
+		"price": 400,
 		"category": "Production",
 		"defname": "Brewery"
 	},
@@ -482,7 +482,7 @@
 	},
 	{
 		"abr": "cassowaryegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggCassowaryFertilized"
 	},
@@ -536,7 +536,7 @@
 	},
 	{
 		"abr": "chesstable",
-		"price": -10,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "ChessTable"
 	},
@@ -548,13 +548,13 @@
 	},
 	{
 		"abr": "chickenegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggChickenFertilized"
 	},
 	{
 		"abr": "chickenegg(unfert.)",
-		"price": 10,
+		"price": 20,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
 	},
@@ -584,7 +584,7 @@
 	},
 	{
 		"abr": "chocolate",
-		"price": 10,
+		"price": 20,
 		"category": "Foods",
 		"defname": "Chocolate"
 	},
@@ -608,7 +608,7 @@
 	},
 	{
 		"abr": "club",
-		"price": -10,
+		"price": 150,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Club"
 	},
@@ -632,7 +632,7 @@
 	},
 	{
 		"abr": "cobraegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggCobraFertilized"
 	},
@@ -776,7 +776,7 @@
 	},
 	{
 		"abr": "diningchair",
-		"price": -10,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "DiningChair"
 	},
@@ -806,25 +806,25 @@
 	},
 	{
 		"abr": "doublebed",
-		"price": -10,
+		"price": 300,
 		"category": "Furniture",
 		"defname": "DoubleBed"
 	},
 	{
 		"abr": "doublebedroll",
-		"price": -10,
+		"price": 300,
 		"category": "Furniture",
 		"defname": "BedrollDouble"
 	},
 	{
 		"abr": "drape",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "Drape"
 	},
 	{
 		"abr": "dresser",
-		"price": -10,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "Dresser"
 	},
@@ -860,13 +860,13 @@
 	},
 	{
 		"abr": "duckegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggDuckFertilized"
 	},
 	{
 		"abr": "duckegg(unfert.)",
-		"price": 10,
+		"price": 20,
 		"category": "Eggs (unfert.)",
 		"defname": "EggDuckUnfertilized"
 	},
@@ -902,7 +902,7 @@
 	},
 	{
 		"abr": "electricstove",
-		"price": 400,
+		"price": 500,
 		"category": "Production",
 		"defname": "ElectricStove"
 	},
@@ -986,13 +986,13 @@
 	},
 	{
 		"abr": "emuegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggEmuFertilized"
 	},
 	{
 		"abr": "endtable",
-		"price": -10,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "EndTable"
 	},
@@ -1010,7 +1010,7 @@
 	},
 	{
 		"abr": "fermentingbarrel",
-		"price": 300,
+		"price": 500,
 		"category": "Production",
 		"defname": "FermentingBarrel"
 	},
@@ -1082,7 +1082,7 @@
 	},
 	{
 		"abr": "floodlight",
-		"price": -10,
+		"price": 800,
 		"category": "Furniture",
 		"defname": "FloodLight"
 	},
@@ -1112,7 +1112,7 @@
 	},
 	{
 		"abr": "fueledsmithy",
-		"price": 300,
+		"price": 400,
 		"category": "Production",
 		"defname": "FueledSmithy"
 	},
@@ -1148,7 +1148,7 @@
 	},
 	{
 		"abr": "gladius",
-		"price": -10,
+		"price": 150,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Gladius"
 	},
@@ -1196,25 +1196,25 @@
 	},
 	{
 		"abr": "gooseegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggGooseFertilized"
 	},
 	{
 		"abr": "gooseegg(unfert.)",
-		"price": 10,
+		"price": 20,
 		"category": "Eggs (unfert.)",
 		"defname": "EggGooseUnfertilized"
 	},
 	{
 		"abr": "grandsculpture",
-		"price": -10,
+		"price": 2000,
 		"category": "Art",
 		"defname": "SculptureGrand"
 	},
 	{
 		"abr": "grandthrone",
-		"price": -10,
+		"price": 2500,
 		"category": "Furniture",
 		"defname": "GrandThrone"
 	},
@@ -1226,7 +1226,7 @@
 	},
 	{
 		"abr": "greatbow",
-		"price": -10,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "Bow_Great"
 	},
@@ -1280,13 +1280,13 @@
 	},
 	{
 		"abr": "harp",
-		"price": -10,
+		"price": 500,
 		"category": "Recreation",
 		"defname": "Harp"
 	},
 	{
 		"abr": "harpsichord",
-		"price": -10,
+		"price": 1000,
 		"category": "Recreation",
 		"defname": "Harpsichord"
 	},
@@ -1322,7 +1322,7 @@
 	},
 	{
 		"abr": "heater",
-		"price": 200,
+		"price": 500,
 		"category": "Temperature",
 		"defname": "Heater"
 	},
@@ -1340,7 +1340,7 @@
 	},
 	{
 		"abr": "herbalmedicine",
-		"price": -10,
+		"price": 10,
 		"category": "Medicine",
 		"defname": "MedicineHerbal"
 	},
@@ -1352,7 +1352,7 @@
 	},
 	{
 		"abr": "hoopstonering",
-		"price": -10,
+		"price": 50,
 		"category": "Recreation",
 		"defname": "HoopstoneRing"
 	},
@@ -1376,19 +1376,19 @@
 	},
 	{
 		"abr": "horseshoespin",
-		"price": -10,
+		"price": 50,
 		"category": "Recreation",
 		"defname": "HorseshoesPin"
 	},
 	{
 		"abr": "hospitalbed",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "HospitalBed"
 	},
 	{
 		"abr": "human",
-		"price": -10,
+		"price": 2500,
 		"category": "Animal",
 		"defname": "Human"
 	},
@@ -1418,7 +1418,7 @@
 	},
 	{
 		"abr": "hyperweave",
-		"price": 20,
+		"price": 25,
 		"category": "Textiles",
 		"defname": "Hyperweave"
 	},
@@ -1442,25 +1442,25 @@
 	},
 	{
 		"abr": "iedemptrap",
-		"price": 200,
+		"price": 500,
 		"category": "Security",
 		"defname": "TrapIED_EMP"
 	},
 	{
 		"abr": "iedfirefoamtrap",
-		"price": 200,
+		"price": 500,
 		"category": "Security",
 		"defname": "TrapIED_Firefoam"
 	},
 	{
 		"abr": "iedincendiarytrap",
-		"price": 200,
+		"price": 500,
 		"category": "Security",
 		"defname": "TrapIED_Incendiary"
 	},
 	{
 		"abr": "iedtrap",
-		"price": 200,
+		"price": 500,
 		"category": "Security",
 		"defname": "TrapIED_HighExplosive"
 	},
@@ -1472,7 +1472,7 @@
 	},
 	{
 		"abr": "iguanaegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggIguanaFertilized"
 	},
@@ -1484,7 +1484,7 @@
 	},
 	{
 		"abr": "ikwa",
-		"price": -10,
+		"price": 150,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Ikwa"
 	},
@@ -1532,7 +1532,7 @@
 	},
 	{
 		"abr": "insectmeat",
-		"price": -10,
+		"price": 5,
 		"category": "Meat",
 		"defname": "Meat_Megaspider"
 	},
@@ -1574,7 +1574,7 @@
 	},
 	{
 		"abr": "knife",
-		"price": -10,
+		"price": 150,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Knife"
 	},
@@ -1598,7 +1598,7 @@
 	},
 	{
 		"abr": "largesculpture",
-		"price": -10,
+		"price": 500,
 		"category": "Art",
 		"defname": "SculptureLarge"
 	},
@@ -1670,7 +1670,7 @@
 	},
 	{
 		"abr": "longsword",
-		"price": -10,
+		"price": 300,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_LongSword"
 	},
@@ -1706,13 +1706,13 @@
 	},
 	{
 		"abr": "mace",
-		"price": -10,
+		"price": 150,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Mace"
 	},
 	{
 		"abr": "machinepistol",
-		"price": -10,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "Gun_MachinePistol"
 	},
@@ -1748,7 +1748,7 @@
 	},
 	{
 		"abr": "medicine",
-		"price": -10,
+		"price": 50,
 		"category": "Medicine",
 		"defname": "MedicineIndustrial"
 	},
@@ -2084,7 +2084,7 @@
 	},
 	{
 		"abr": "ostrichegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggOstrichFertilized"
 	},
@@ -2156,7 +2156,7 @@
 	},
 	{
 		"abr": "piano",
-		"price": -10,
+		"price": 1000,
 		"category": "Recreation",
 		"defname": "Piano"
 	},
@@ -2174,7 +2174,7 @@
 	},
 	{
 		"abr": "pila",
-		"price": -10,
+		"price": 150,
 		"category": "Ranged weapons",
 		"defname": "Pila"
 	},
@@ -2186,7 +2186,7 @@
 	},
 	{
 		"abr": "plantpot",
-		"price": -10,
+		"price": 50,
 		"category": "Furniture",
 		"defname": "PlantPot"
 	},
@@ -2210,7 +2210,7 @@
 	},
 	{
 		"abr": "pokertable",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "PokerTable"
 	},
@@ -2354,7 +2354,7 @@
 	},
 	{
 		"abr": "psyfocusstaff",
-		"price": -10,
+		"price": 1500,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_PsyfocusStaff"
 	},
@@ -2468,7 +2468,7 @@
 	},
 	{
 		"abr": "pumpshotgun",
-		"price": -10,
+		"price": 400,
 		"category": "Ranged weapons",
 		"defname": "Gun_PumpShotgun"
 	},
@@ -2486,7 +2486,7 @@
 	},
 	{
 		"abr": "rat",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Rat"
 	},
@@ -2522,7 +2522,7 @@
 	},
 	{
 		"abr": "recurvebow",
-		"price": -10,
+		"price": 100,
 		"category": "Ranged weapons",
 		"defname": "Bow_Recurve"
 	},
@@ -2546,7 +2546,7 @@
 	},
 	{
 		"abr": "revolver",
-		"price": -10,
+		"price": 200,
 		"category": "Ranged weapons",
 		"defname": "Gun_Revolver"
 	},
@@ -2576,7 +2576,7 @@
 	},
 	{
 		"abr": "royalbed",
-		"price": -10,
+		"price": 1500,
 		"category": "Furniture",
 		"defname": "RoyalBed"
 	},
@@ -2630,7 +2630,7 @@
 	},
 	{
 		"abr": "shelf",
-		"price": -10,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "Shelf"
 	},
@@ -2648,7 +2648,7 @@
 	},
 	{
 		"abr": "shortbow",
-		"price": -10,
+		"price": 50,
 		"category": "Ranged weapons",
 		"defname": "Bow_Short"
 	},
@@ -2660,7 +2660,7 @@
 	},
 	{
 		"abr": "silver",
-		"price": 5,
+		"price": 15,
 		"category": "Raw resources",
 		"defname": "Silver"
 	},
@@ -2690,7 +2690,7 @@
 	},
 	{
 		"abr": "smallsculpture",
-		"price": -10,
+		"price": 250,
 		"category": "Art",
 		"defname": "SculptureSmall"
 	},
@@ -2732,7 +2732,7 @@
 	},
 	{
 		"abr": "spear",
-		"price": -10,
+		"price": 300,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Spear"
 	},
@@ -2756,7 +2756,7 @@
 	},
 	{
 		"abr": "squirrel",
-		"price": -10,
+		"price": 100,
 		"category": "Animal",
 		"defname": "Squirrel"
 	},
@@ -2792,7 +2792,7 @@
 	},
 	{
 		"abr": "steel",
-		"price": 5,
+		"price": 10,
 		"category": "Raw resources",
 		"defname": "Steel"
 	},
@@ -2810,7 +2810,7 @@
 	},
 	{
 		"abr": "stool",
-		"price": -10,
+		"price": 50,
 		"category": "Furniture",
 		"defname": "Stool"
 	},
@@ -2822,7 +2822,7 @@
 	},
 	{
 		"abr": "sunlamp",
-		"price": -10,
+		"price": 150,
 		"category": "Furniture",
 		"defname": "SunLamp"
 	},
@@ -2834,25 +2834,25 @@
 	},
 	{
 		"abr": "table(1x2)",
-		"price": -10,
+		"price": 100,
 		"category": "Furniture",
 		"defname": "Table1x2c"
 	},
 	{
 		"abr": "table(2x2)",
-		"price": -10,
+		"price": 200,
 		"category": "Furniture",
 		"defname": "Table2x2c"
 	},
 	{
 		"abr": "table(2x4)",
-		"price": -10,
+		"price": 400,
 		"category": "Furniture",
 		"defname": "Table2x4c"
 	},
 	{
 		"abr": "table(3x3)",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "Table3x3c"
 	},
@@ -2864,13 +2864,13 @@
 	},
 	{
 		"abr": "techprint(artificialmetabolism)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_ArtificialMetabolism"
 	},
 	{
 		"abr": "techprint(brainwiring)",
-		"price": 2000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_BrainWiring"
 	},
@@ -2882,55 +2882,55 @@
 	},
 	{
 		"abr": "techprint(circadianinfluence)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_CircadianInfluence"
 	},
 	{
 		"abr": "techprint(compactweaponry)",
-		"price": 2000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_CompactWeaponry"
 	},
 	{
 		"abr": "techprint(fleshshaping)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_FleshShaping"
 	},
 	{
 		"abr": "techprint(healingfactors)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_HealingFactors"
 	},
 	{
 		"abr": "techprint(molecularanalysis)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_MolecularAnalysis"
 	},
 	{
 		"abr": "techprint(neuralcomputation)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_NeuralComputation"
 	},
 	{
 		"abr": "techprint(poisonsynthesis)",
-		"price": 2000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_VenomSynthesis"
 	},
 	{
 		"abr": "techprint(skinhardening)",
-		"price": 3000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_SkinHardening"
 	},
 	{
 		"abr": "techprint(specializedlimbs)",
-		"price": 2000,
+		"price": 5000,
 		"category": "Techprints",
 		"defname": "Techprint_SpecializedLimbs"
 	},
@@ -2942,13 +2942,13 @@
 	},
 	{
 		"abr": "telescope",
-		"price": -10,
+		"price": 500,
 		"category": "Recreation",
 		"defname": "Telescope"
 	},
 	{
 		"abr": "throne",
-		"price": -10,
+		"price": 500,
 		"category": "Furniture",
 		"defname": "Throne"
 	},
@@ -3014,7 +3014,7 @@
 	},
 	{
 		"abr": "tortoiseegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggTortoiseFertilized"
 	},
@@ -3074,7 +3074,7 @@
 	},
 	{
 		"abr": "turkeyegg(fert.)",
-		"price": -10,
+		"price": 20,
 		"category": "Eggs (fert.)",
 		"defname": "EggTurkeyFertilized"
 	},
@@ -3098,7 +3098,7 @@
 	},
 	{
 		"abr": "urn",
-		"price": -10,
+		"price": 50,
 		"category": "Furniture",
 		"defname": "Urn"
 	},
@@ -3164,7 +3164,7 @@
 	},
 	{
 		"abr": "warhammer",
-		"price": -10,
+		"price": 500,
 		"category": "Melee weapons",
 		"defname": "MeleeWeapon_Warhammer"
 	},
@@ -3194,7 +3194,7 @@
 	},
 	{
 		"abr": "wort",
-		"price": 4,
+		"price": 5,
 		"category": "Manufactured",
 		"defname": "Wort"
 	},
